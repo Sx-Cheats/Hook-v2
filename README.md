@@ -45,4 +45,4 @@ Nous avons détaché notre hook pendant que le callback était appelé (trait ja
 
 J'espère que ce petit projet vous plaira, n'hésitez pas à le star ou le fork 😉.
 
-![](https://img.shields.io/static/v1?label=Discord&message=$x-Cheats%232170&color=blue)
+![](https://img.shields.io/static/v1?label=Discord&message=$x%232170&color=blue)
